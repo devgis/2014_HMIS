@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0F0FA8DA-63BD-4CA8-A1C3-B7637257D68A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FySoft.HMIS.Forms</RootNamespace>
+    <AssemblyName>HMIS</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HelpAbout\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpAbout\AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="HelpAbout\AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <Content Include="menu_helpabout.ico" />
+    <None Include="Resources\viewMsg.ico" />
+    <None Include="Resources\edit.ico" />
+    <None Include="Resources\search.ico" />
+    <None Include="Resources\SysReqNotMet.ico" />
+    <None Include="Resources\add.ico" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\PPG.ico" />
+    <None Include="Resources\picture.ico" />
+    <None Include="Resources\output_wnd_hc.ico" />
+    <None Include="Resources\menu_system.ico" />
+    <None Include="Resources\menu_relogin.ico" />
+    <None Include="Resources\menu_project.ico" />
+    <None Include="Resources\menu_money.ico" />
+    <None Include="Resources\menu_lichengbei.ICO" />
+    <None Include="Resources\menu_lichengbei2.ICO" />
+    <None Include="Resources\menu_hetong.ico" />
+    <None Include="Resources\menu_helpabout.ico" />
+    <None Include="Resources\menu_exit.ico" />
+    <None Include="Resources\menu_baobiao.ICO" />
+    <None Include="Resources\icon.ico" />
+    <None Include="Resources\ico_main.ico" />
+    <None Include="Resources\ico_logo.ico" />
+    <None Include="Resources\FindPerson.ico" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\confirm.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HMIS.Bll\HMIS.Bll.csproj">
+      <Project>{E683ABA7-A7B6-489B-8447-E9D2C879D2AB}</Project>
+      <Name>HMIS.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMIS.Common\HMIS.Common.csproj">
+      <Project>{AC4253EB-9E87-4384-864D-EB680F2A13C6}</Project>
+      <Name>HMIS.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMIS.Forms\HMIS.Forms.csproj">
+      <Project>{7DAB3606-61F3-4B00-8F5B-1A949CDC3ADF}</Project>
+      <Name>HMIS.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMIS.Models\HMIS.Entities.csproj">
+      <Project>{D66F7DE3-5A3F-481F-9587-3F4513F1C7DC}</Project>
+      <Name>HMIS.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HMIS.Reports\HMIS.Reports.csproj">
+      <Project>{63CF1B5C-EA7C-4DB9-99EF-11EDCE82273F}</Project>
+      <Name>HMIS.Reports</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

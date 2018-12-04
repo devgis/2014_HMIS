@@ -1,0 +1,15 @@
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.pdb
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.pdb
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.dll
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.pdb
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\ResolveAssemblyReference.cache
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.dll
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.pdb
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.dll
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Controls\bin\Debug\UfidaPMS.Controls.pdb
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.dll
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Controls\obj\Debug\UfidaPMS.Controls.pdb

@@ -1,0 +1,17 @@
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\bin\Debug\UfidaPMS.WSAL.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\bin\Debug\UfidaPMS.WSAL.pdb
+E:\ufida\Release\UfidaPMS.WSAL.dll
+E:\ufida\Release\UfidaPMS.WSAL.pdb
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.pdb
+F:\ufida\Release\UfidaPMS.WSAL.dll
+F:\ufida\Release\UfidaPMS.WSAL.pdb
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.dll
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.pdb
+E:\Work\Release\UfidaPMS.WSAL.dll
+E:\Work\Release\UfidaPMS.WSAL.pdb
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.WSAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.dll
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.WSAL\obj\Debug\UfidaPMS.WSAL.pdb

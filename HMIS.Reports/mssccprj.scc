@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[UfidaPMS.Reports.csproj]
+SCC_Aux_Path = "E:\VSSDB"
+SCC_Project_Name = "$/UfidaPMS/UfidaPMS.Reports", KKAAAAAA
+
+[HMIS.Reports.csproj]
+SCC_Aux_Path = "E:\VSSDB"
+SCC_Project_Name = "$/HMIS/SourceCode/HMIS.root/HMIS/HMIS.Reports", XDAAAAAA

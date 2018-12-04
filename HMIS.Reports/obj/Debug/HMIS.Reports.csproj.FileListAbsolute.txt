@@ -1,0 +1,14 @@
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\ResGen.read.1.tlog
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\ResGen.write.1.tlog
+E:\Release\FySoft.HMIS.Reports.dll
+E:\Release\FySoft.HMIS.Reports.pdb
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\FySoft.HMIS.Reports.Properties.Resources.resources
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\FySoft.HMIS.Reports.dll
+E:\Work\HMiS\UfidaPMS.Reports\obj\Debug\FySoft.HMIS.Reports.pdb
+E:\Work\HMiS\HMIS.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\HMIS.Reports\obj\Debug\FySoft.HMIS.Reports.Properties.Resources.resources
+E:\Work\HMiS\HMIS.Reports\obj\Debug\ResGen.read.1.tlog
+E:\Work\HMiS\HMIS.Reports\obj\Debug\ResGen.write.1.tlog
+E:\Work\HMiS\HMIS.Reports\obj\Debug\FySoft.HMIS.Reports.dll
+E:\Work\HMiS\HMIS.Reports\obj\Debug\FySoft.HMIS.Reports.pdb

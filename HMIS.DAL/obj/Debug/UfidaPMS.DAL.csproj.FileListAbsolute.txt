@@ -1,0 +1,17 @@
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\bin\Debug\UfidaPMS.DAL.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\bin\Debug\UfidaPMS.DAL.pdb
+E:\ufida\Release\UfidaPMS.DAL.dll
+E:\ufida\Release\UfidaPMS.DAL.pdb
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.pdb
+F:\ufida\Release\UfidaPMS.DAL.dll
+F:\ufida\Release\UfidaPMS.DAL.pdb
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.dll
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.pdb
+E:\Work\Release\UfidaPMS.DAL.dll
+E:\Work\Release\UfidaPMS.DAL.pdb
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.dll
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.DAL\obj\Debug\UfidaPMS.DAL.pdb

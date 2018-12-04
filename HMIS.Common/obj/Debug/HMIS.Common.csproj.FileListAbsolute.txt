@@ -1,0 +1,8 @@
+E:\Work\HMiS\UfidaPMS.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Release\FySoft.HMIS.Common.dll
+E:\Release\FySoft.HMIS.Common.pdb
+E:\Work\HMiS\UfidaPMS.Common\obj\Debug\FySoft.HMIS.Common.dll
+E:\Work\HMiS\UfidaPMS.Common\obj\Debug\FySoft.HMIS.Common.pdb
+E:\Work\HMiS\HMIS.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\HMIS.Common\obj\Debug\FySoft.HMIS.Common.dll
+E:\Work\HMiS\HMIS.Common\obj\Debug\FySoft.HMIS.Common.pdb

@@ -1,0 +1,5 @@
+E:\Work\HMiS\HMIS.CACHE\bin\Debug\HMIS.CACHE.dll
+E:\Work\HMiS\HMIS.CACHE\bin\Debug\HMIS.CACHE.pdb
+E:\Work\HMiS\HMIS.CACHE\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\HMIS.CACHE\obj\Debug\HMIS.CACHE.dll
+E:\Work\HMiS\HMIS.CACHE\obj\Debug\HMIS.CACHE.pdb

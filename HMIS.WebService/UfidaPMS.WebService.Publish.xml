@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Documents and Settings\admin\桌面\setup\ws" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="http://192.168.1.100/ws" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWhNU0gE+LEOXhFvDnkSHFgAAAAACAAAAAAADZgAAqAAAABAAAABAweX6Wm/igjXmQYReiZAGAAAAAASAAACgAAAAEAAAAHhSRVz1enK9qJoIIOyGQEYIAAAApQDPQseI4UMUAAAAiwC/18oUaTi6toWwzEEfqk3DeiA=" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/29/2012 16:33:40" />
+    <file relUrl="MilestoneService.asmx" publishTime="09/07/2012 17:54:16" />
+    <file relUrl="bin/UfidaPMS.Models.dll" publishTime="09/29/2012 16:33:26" />
+    <file relUrl="bin/UfidaPMS.Common.dll" publishTime="09/29/2012 16:33:26" />
+    <file relUrl="CommonService.asmx" publishTime="09/10/2012 10:12:31" />
+    <file relUrl="bin/UfidaPMS.Models.pdb" publishTime="09/29/2012 16:33:26" />
+    <file relUrl="bin/UfidaPMS.Bll.dll" publishTime="09/29/2012 16:33:28" />
+    <file relUrl="bin/UfidaPMS.DAL.pdb" publishTime="09/29/2012 16:33:27" />
+    <file relUrl="bin/UfidaPMS.WebService.pdb" publishTime="09/29/2012 16:33:29" />
+    <file relUrl="bin/UfidaPMS.DAL.dll" publishTime="09/29/2012 16:33:27" />
+    <file relUrl="ContractService.asmx" publishTime="09/07/2012 17:53:38" />
+    <file relUrl="IncomeService.asmx" publishTime="09/07/2012 17:54:02" />
+    <file relUrl="bin/UfidaPMS.Bll.pdb" publishTime="09/29/2012 16:33:28" />
+    <file relUrl="UserService.asmx" publishTime="09/07/2012 16:38:50" />
+    <file relUrl="DictionaryService.asmx" publishTime="09/07/2012 17:53:51" />
+    <file relUrl="ProjectService.asmx" publishTime="09/07/2012 17:54:31" />
+    <file relUrl="UserAuthService.asmx" publishTime="09/07/2012 17:55:54" />
+    <file relUrl="bin/UfidaPMS.Common.pdb" publishTime="09/29/2012 16:33:26" />
+    <file relUrl="ReportService.asmx" publishTime="09/19/2012 13:32:40" />
+    <file relUrl="ActualdaysService.asmx" publishTime="09/07/2012 17:53:10" />
+    <file relUrl="AuthorityService.asmx" publishTime="09/07/2012 17:53:25" />
+    <file relUrl="ProjectWeekStatusService.asmx" publishTime="09/07/2012 17:55:04" />
+    <file relUrl="bin/UfidaPMS.WebService.dll" publishTime="09/29/2012 16:33:29" />
+    <file relUrl="ProjectPlanService.asmx" publishTime="09/07/2012 17:54:51" />
+  </publishProfile>
+</publishData>

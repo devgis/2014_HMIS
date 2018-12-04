@@ -1,0 +1,17 @@
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\bin\Debug\UfidaPMS.Common.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\bin\Debug\UfidaPMS.Common.pdb
+E:\ufida\Release\UfidaPMS.Common.dll
+E:\ufida\Release\UfidaPMS.Common.pdb
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.dll
+E:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.pdb
+F:\ufida\Release\UfidaPMS.Common.dll
+F:\ufida\Release\UfidaPMS.Common.pdb
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.dll
+F:\ufida\SourceCode\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.pdb
+E:\Work\Release\UfidaPMS.Common.dll
+E:\Work\Release\UfidaPMS.Common.pdb
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.dll
+E:\Work\UfidaPMS\UfidaPMS\UfidaPMS.Common\obj\Debug\UfidaPMS.Common.pdb

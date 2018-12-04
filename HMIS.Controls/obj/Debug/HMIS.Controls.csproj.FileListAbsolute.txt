@@ -1,0 +1,10 @@
+E:\Work\HMiS\UfidaPMS.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\UfidaPMS.Controls\bin\Debug\FySoft.HMIS.Controls.dll
+E:\Work\HMiS\UfidaPMS.Controls\bin\Debug\FySoft.HMIS.Controls.pdb
+E:\Work\HMiS\UfidaPMS.Controls\obj\Debug\FySoft.HMIS.Controls.dll
+E:\Work\HMiS\UfidaPMS.Controls\obj\Debug\FySoft.HMIS.Controls.pdb
+E:\Work\HMiS\HMIS.Controls\bin\Debug\FySoft.HMIS.Controls.dll
+E:\Work\HMiS\HMIS.Controls\bin\Debug\FySoft.HMIS.Controls.pdb
+E:\Work\HMiS\HMIS.Controls\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\HMIS.Controls\obj\Debug\FySoft.HMIS.Controls.dll
+E:\Work\HMiS\HMIS.Controls\obj\Debug\FySoft.HMIS.Controls.pdb

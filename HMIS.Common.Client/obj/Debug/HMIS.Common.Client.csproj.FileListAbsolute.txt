@@ -1,0 +1,5 @@
+E:\Work\HMiS\HMIS.Common.Client\bin\Debug\HMIS.Common.Client.dll
+E:\Work\HMiS\HMIS.Common.Client\bin\Debug\HMIS.Common.Client.pdb
+E:\Work\HMiS\HMIS.Common.Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\HMIS.Common.Client\obj\Debug\HMIS.Common.Client.dll
+E:\Work\HMiS\HMIS.Common.Client\obj\Debug\HMIS.Common.Client.pdb

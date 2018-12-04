@@ -1,0 +1,7 @@
+E:\Work\HMiS\FySoft.HMIS.DICT\bin\Debug\FySoft.HMIS.DICT.dll
+E:\Work\HMiS\FySoft.HMIS.DICT\bin\Debug\FySoft.HMIS.DICT.pdb
+E:\Work\HMiS\FySoft.HMIS.DICT\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\HMiS\FySoft.HMIS.DICT\obj\Debug\FySoft.HMIS.DICT.dll
+E:\Work\HMiS\FySoft.HMIS.DICT\obj\Debug\FySoft.HMIS.DICT.pdb
+E:\Work\HMiS\FySoft.HMIS.DICT\bin\Debug\FySoft.HMIS.Entities.dll
+E:\Work\HMiS\FySoft.HMIS.DICT\bin\Debug\FySoft.HMIS.Entities.pdb
